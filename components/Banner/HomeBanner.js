@@ -31,7 +31,7 @@ export const HomeBanner = () => {
                     <div className="mt-6 mb-16 text-center">
                         <ButtonGroup alignment="center">
     
-                        <Link href="https://www.youtube.com/watch?v=BbeeuzU5Qc8">
+                        <Link href="https://drive.google.com/drive/folders/1iNLAk70qVdpR2j4kXhwprPWrObT0crAq?usp=sharing">
                             <div class="flex mt-3 w-48 h-14 bg-black text-white rounded-xl items-center justify-center">
                               <div class="mr-3">
                             <svg viewBox="0 0 384 512" width="30" >
@@ -47,7 +47,7 @@ export const HomeBanner = () => {
 
                                 
                                                  
-                        <Link href="https://youtu.be/g-vjA5O-ZTU?si=Rw52lRX866Ylq28d">
+                        <Link href="https://drive.google.com/drive/folders/1iNLAk70qVdpR2j4kXhwprPWrObT0crAq?usp=sharing">
                         <div className="flex mt-3 w-48 h-14 bg-black text-white rounded-lg items-center justify-center">
             <div className="mr-3">
                 <svg viewBox="30 336.7 120.9 129.2" width="30">
