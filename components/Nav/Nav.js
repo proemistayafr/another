@@ -7,8 +7,32 @@ const navigation = [
     { name: "Особенности", to: "#features", href: "/#features" },
     { name: "FAQ?", to: "#faq", href: "/#faq" },
     {
-        name: "Contact",
+        name: "Nargiza",
         href: "https://github.com/proemistayafr",
+        isArrow: true,
+        target: "_blank"
+    },
+    {
+        name: "Adilzhan",
+        href: "https://www.linkedin.com/in/adilzhan-akhmetkerey-266672235/",
+        isArrow: true,
+        target: "_blank"
+    },
+    {
+        name: "Rustem",
+        href: "https://www.linkedin.com/in/rustem-orazbay-a02275283/",
+        isArrow: true,
+        target: "_blank"
+    },
+    {
+        name: "Kosai",
+        href: "/",
+        isArrow: true,
+        target: "_blank"
+    },
+    {
+        name: "Sultanbek",
+        href: "https://github.com/Sultan2k7",
         isArrow: true,
         target: "_blank"
     }
